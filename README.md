@@ -20,7 +20,7 @@
 
 - ⚡ Fun fact - I love listening music 🖊️
 
--  🌎 Let's Create something the World needs 🌎
+-  🌎 Let's Create something, the world needs 🌎
 
 - 👉 Connect with me on [LinkedIn](https://www.linkedin.com/in/rubel-foridi-62319a231/)
 
