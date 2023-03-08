@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Rubel Foridi</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_OIUet1dRnEI3NPUYZXhOqmhh7d4_jM2J5Q&usqp=CAU")
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAiYyz3cmq7sEMssxzvrZjvktYnv6t25W8OA&usqp=CAU")
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rubel011&label=Profile%20views&color=0e75b6&style=flat" alt="rubel011" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rubel011" alt="rubel011" /></a> </p>
