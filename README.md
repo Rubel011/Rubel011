@@ -4,7 +4,7 @@
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;Back+end+Developer;Web+Developer;Quick+learner&color=cyan&center=true" />
 </div>
 <h2>- Full Stack Web Developer skilled in Backend.</h2>
-<h2>- I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and make use of them to solve real-life problems </h2>
+<h2>An enthusiastic Web developer, a believer in excellence, having the zeal to up-skill, be efficient & productive for the company’s development as well as diversify my professional skill set.</h2>
 <img align="right" alt "Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjASLgbqkZ7i0sumigqsNboxKAjsydtd96Tg&usqp=CAU">
 
 
