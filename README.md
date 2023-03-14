@@ -82,9 +82,9 @@
 
 
   <br/>
-  
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rubel011&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="rubel011" /></p>
 <p align="center">
-     <img alt="Rubel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Rubel011&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+     <img alt="Rubel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Rubel011&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=0D1117" style="padding-top : 55px;"/></a>
 
  </p> 
  <br/>
