@@ -12,7 +12,7 @@
 
 
 
-- 👨‍💻 See my Portfolio here [Portfolio](https://Rubel011.github.io)
+- 👨‍💻 See my Portfolio here [Portfolio](https://rubel011.github.io)
 
 - 📫 Reach me at *rubelforidi@gmail.com*
 
