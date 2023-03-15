@@ -12,11 +12,11 @@
 
 
 
-- 👨‍💻 See my Portfolio here [Portfolio]
+- 👨‍💻 See my Portfolio here [Portfolio](https://Rubel011.github.io)
 
 - 📫 Reach me at *rubelforidi@gmail.com*
 
-- 📄 Know more about me [Resume](https://www.canva.com/design/DAFcBjOdzIk/5007AkNhM431IDI1mbpSTA/view?utm_content=DAFcBjOdzIk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 Know more about me [Resume](https://drive.google.com/file/d/1NB33EV8fyFEyqE2YpketzAROuZfDS_WH/view?usp=sharing)
 
 - ⚡ Fun fact - I love listening music 🖊️
 
