@@ -1,102 +1,95 @@
-<h1 align="center">Hi 👋, I'm Rubel Foridi</h1>
-<br/>
+# Hey, I'm Rubel Foridi 👋
+
 <div align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;Back+end+Developer;Web+Developer;Quick+learner&color=cyan&center=true" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3F97F7&center=true&vCenter=true&random=false&width=600&lines=Backend+Developer;Building+Systems+for+1M%2B+Users;Node.js+%7C+MongoDB+%7C+AWS" alt="Typing SVG" />
 </div>
-<h2>- Full Stack Web Developer skilled in Backend.</h2>
-<h2>An enthusiastic Web developer, a believer in excellence, having the zeal to up-skill, be efficient & productive for the company’s development as well as diversify my professional skill set.</h2>
-<img align="right" alt "Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjASLgbqkZ7i0sumigqsNboxKAjsydtd96Tg&usqp=CAU">
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rubel011&label=Profile%20views&color=0e75b6&style=flat" alt="Rubel011" /> </p>
-
-
-
-- 👨‍💻 See my Portfolio here [Portfolio](https://rubel011.github.io/)
-
-- 📫 Reach me at *rubelforidi@gmail.com*
-
-- 📄 Know more about me [Resume](https://drive.google.com/file/d/1NB33EV8fyFEyqE2YpketzAROuZfDS_WH/view?usp=sharing)
-
-- ⚡ Fun fact - I love listening music 🖊️
-
--  🌎 Let's Create something, the world needs 🌎
-
-- 👉 Connect with me on [LinkedIn](https://www.linkedin.com/in/rubel-foridi-62319a231/)
-
 
 <br/>
-<br/>
-<br/>
-<br/>
 
-<h3 align="left">🚀 Languages and Tools:</h3>
+<img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding"/>
+
+### 🚀 About Me
+
+- 🔧 Backend developer specializing in **high-traffic applications**
+- 📊 Building systems that serve **1 million+ active users**
+- ☁️ Experienced in **AWS infrastructure** & cost optimization
+- 💳 Payment integrations: Razorpay, PhonePe & more
+- ⚡ Love optimizing for **performance & scale**
+
+<br clear="right"/>
+
+---
+
+### 🛠️ Tech Stack
+
 <div align="center">
- 
- <div align="center"><h3 align="center">Frontend</h3>
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5">
-<img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="css3">
-<img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="center" alt="javascript">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  align="center" alt="reactjs" />
 
-<img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" align="center" style="paddding : 5px;" alt="TypeScript" />
-<br/>
-<br/>
-  
-  <img src="https://img.shields.io/badge/rest api-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" align="center" alt="restapi"/>
-  
-</div>
- <br/>
-  <div align="center"><h3 align="center">Backend</h3> 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="nodejs" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" align="center" alt="expressjs"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" align="center" alt="mongodb"/>
-<img src="https://img.shields.io/badge/mongoose-%2300f.svg?style=for-the-badge&logo=fastify&logoColor=white" align="center" alt="mongoose"/>
-   <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" align="center" alt="jwt"/>
- </div>
-  <div align="center"><h3 align="center">Tools</h3> 
-   <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" align="center" alt="git"/>
-   <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" align="center" alt="git"/>
-   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=whit" align="center" alt="git"/>
-   <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white"  align="center" alt="git"/>
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  align="center" alt="github"/>
-<img src ="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" align="center" alt="postman">
-<img src = "https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="npm">
-   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"  align="center" alt="vscode"/>
-   <br/>
-<br/>
- </div>
+#### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+#### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+#### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 </div>
 
-<br/>
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rubel011&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rubel011&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rubel011&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</div>
+
+---
+
+### 🐍 Contribution Graph
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+---
+
+### 🤝 Let's Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rubelforidi@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rubel-foridi-62319a231/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://rubel011.github.io/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/rubel_foridi)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rubel011&style=for-the-badge&color=3F97F7" alt="Profile Views"/>
+</div>
+
+<div align="center">
   
-  ##
- 
- 
- ## 📊 My Github Stats
-
-<p align="center">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rubel's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Rubel011&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-
-
-  <br/>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rubel011&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="rubel011" /></p>
-<p align="center">
-     <img alt="Rubel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Rubel011&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=0D1117" style="padding-top : 55px;"/></a>
-
- </p> 
- <br/>
-
-
-<br/>
-<br/>
-
-<div> 
- 
-<!--   ![Snake animation](https://github.com/DeepanshuChugh/blob/output/github-contribution-grid-snake.svg) -->
-   
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
+  ⭐ **Building scalable backends, one API at a time** ⭐
+  
 </div>
