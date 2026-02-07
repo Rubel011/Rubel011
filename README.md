@@ -1,7 +1,7 @@
 # Hey, I'm Rubel Foridi 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3F97F7&center=true&vCenter=true&random=false&width=600&lines=Backend+Developer;Building+Systems+for+1M%2B+Users;Node.js+%7C+MongoDB+%7C+AWS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3F97F7&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;Building+Systems+for+5M%2B+Users;Node.js+%7C+MongoDB+%7C+AWS" alt="Typing SVG" />
 </div>
 
 <br/>
